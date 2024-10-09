@@ -27,6 +27,28 @@ TagManager:
   - Chair
   - Camera
   - Tutorial Exit
+  - RoomA Go
+  - RoomB Go
+  - RoomC Go
+  - RoomD Go
+  - RoomE Go
+  - RoomF Go
+  - RoomA Exit
+  - RoomB Exit
+  - RoomC Exit
+  - RoomD Exit
+  - RoomE Exit
+  - RoomF Exit
+  - pinkDollEnemy
+  - rabbitDollEnemy
+  - Tutorial Go
+  - Push_Object
+  - back
+  - NPC
+  - TableA
+  - Room D floor
+  - NPCEnemy
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -35,7 +57,7 @@ TagManager:
   - Water
   - UI
   - enemy
-  - 
+  - wall
   - 
   - 
   - 
